@@ -1,0 +1,4 @@
+Algorithms to try:
+Naive Bayes, Logistic Regression (LR), Support Vector Machines (SVM),
+Decision Tree (DT), Boosted Tree (BT), and Random Forests (RF).
+used dataset + https://www.kaggle.com/datasets/utkarshxy/stock-markettweets-lexicon-data
